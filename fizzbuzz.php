@@ -3,7 +3,7 @@
 <p>FizzNum: <input type="text" name="fizz" placeholder="整数値を入力してください"></p>
 <p>BuzzNum: <input type="text" name="buzz" placeholder="整数値を入力してください"></p>
 <input type="submit" name="submit" value="実行">
-</form>
+</form> 
 
 <p>【出力】</p>
 
